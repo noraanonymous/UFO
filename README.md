@@ -1,5 +1,5 @@
 # UFO: Unbiased Foundation Model for Fairness-aware Recommendation
-Code for the paper UFO: Unbiased Foundation Model for Fairness-aware Recommendation
+Code for the paper UFO: \textbf{U}nbiased \textbf{F}oundation M\textbf{O}del for Fairness-aware Recommendation
 
 # Environment
 ```
